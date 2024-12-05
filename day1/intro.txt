@@ -1,0 +1,75 @@
+Practice Link : https://tinyurl.com/4skhradj
+
+
+student.ccc.training
+operators
+	Arithmetic
+		+, -, *, / , %
+Relational
+	>, >=, <, <=, ==, !=
+logical
+	&&, ||, !
+
+https://bit.ly/AA-041224
+TRAINER NAME : Tambi
+increment/decrement
+++/--
+Ternary or conditional
+	?:
+syntax:
+
+		<condition>?<true>:<false>;
+
+
+example
+		x, y
+
+		max = x > y ? x : y;
+		x, y, z
+
+		max = x > y && x > z ? x : (y>z?y:z);
+Bitwise
+	&	AND
+	|	OR
+	^	XOR
+	~	NOT, NEGATION, 1'S COMPLEMENT
+	>>	RIGHT SHIFT
+	<<	LEFT SHIFT
+
+ASSIGNMENT
+	SIMPLE
+		=
+	SHORTHAND OR COMPOUND
+		+=, -=, *=, /=, %=
+		&=, |=, ^=, >>=, <<=
+
+SPECIAL
+	&
+	->
+	.
+	sizeof()
+
+	[], (), {}
+
+keywords
+	
+data types
+	int, char, float, double, void
+	
+	modifiers
+	signed, unsigned, long, short
+	qualifier
+	const, volatile
+
+	sizeof
+CS
+	if, else, switch, case, break, default
+	goto, for, do, while, continue
+UDD
+	struct, union, typedef, Enum
+Storage classes
+	auto, extern, static, register
+Function
+	return
+
+	
