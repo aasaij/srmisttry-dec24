@@ -1,0 +1,12 @@
+
+
+Selective control structure
+if
+	if (<condition>){
+		<statements>
+	}
+	[else {
+		<statements>
+	}]
+
+switch
