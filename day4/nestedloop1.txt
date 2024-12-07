@@ -1,0 +1,14 @@
+Nested loop
+
+Syntax :
+	for(....){
+		for (....){
+			<statements>
+		}
+	}
+	
+	Attendance Link : https://bit.ly/AA-071224
+	Trainer : Tambi
+	Session : FN
+	
+	
