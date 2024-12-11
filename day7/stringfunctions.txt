@@ -1,0 +1,62 @@
+String functions
+
+strlen()
+	int strlen(const char *str);
+	
+printf("%d", strlen("Madhan")); // 6
+
+	strcpy()
+	char* strcpy(char *str1, char* str2);
+			str1 = str2
+	char str1[100];
+	
+	strcpy(str1, "Madhumathi"); str1 = "Madhumathi"
+	
+	strcat()
+	char* strcat(char *str1, char* str2);
+	char str[100] = "Testing";
+	char str1[100] = "@123";
+	strcat(str, str1);  ==> str = str + str1
+	puts(str); // Testing@123
+	
+	strcmp()
+		int strcmp(char *str1, char* str2);
+		returns
+			0 ==> both strings are equal
+			> 0 ==> str1 > str2
+			< 0 ==> str1 < str2
+    // printf("%d", strncmp("Amisha", "Amisha"));
+    
+    // printf("%d", strcasecmp("Amisha", "AMISHA"));
+    // printf("%d", strcmp("Amisha", "AMISHA"));	
+    
+    strchr()
+    	char *strchr(const char *str, int c);
+    
+    strchr("aeiou", 'u');
+    	returns 
+    		NULL if the character not found
+    		address if the character found
+    strrchr()
+    	char *strrchr(const char *str, int c);
+
+    // printf("%s", strchr("Testing", 't'));
+    printf("%s", strrchr("Alagammai", 'a'));
+    
+    
+    		
+    	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
