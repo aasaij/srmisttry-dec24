@@ -43,7 +43,11 @@ printf("%d", strlen("Madhan")); // 6
     // printf("%s", strchr("Testing", 't'));
     printf("%s", strrchr("Alagammai", 'a'));
     
-    
+    strstr()
+    	char *strstr(const char *str, const char *search);
+    	
+    printf("%s", strstr("This is testing", " is "));
+    	
     		
     	
 	

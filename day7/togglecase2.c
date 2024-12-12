@@ -17,4 +17,9 @@ int main(){
 	puts(str);
 	return 0;
 }
+//isalpha()
+//isalnum()
+//isdigit()
+//isspace()
+
 

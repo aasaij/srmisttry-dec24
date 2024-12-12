@@ -5,8 +5,7 @@ int main(){
 	int x, y;
 	char opr;
 	scanf("%d %c %d", &x, &opr, &y); // 10 + 5
-	printf("%d %c %d = %d", x, opr, y, calc(x,y,opr));
-	
+	printf("%d %c %d = %d", x, opr, y, calc(x,y,opr));	
 	return 0;
 	
 }
@@ -24,3 +23,9 @@ int calc(int x, int y, char opr){
 			return 0;
 	}	
 }
+Attendance Link : https://bit.ly/RA-111224
+Trainer : Tambi
+Session : FN
+
+
+
